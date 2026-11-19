@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include <math.h>
 
 void dailymsd(float readings[], float month[][16], int monthno){
