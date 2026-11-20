@@ -1,4 +1,4 @@
-float monthhr((int month[][],int hour))
+float monthhr((float month[][],int hour))
 {
     float sum = 0.0;
     for (int day = 0; day < 30; day++) // increase from day 1 to day 30
